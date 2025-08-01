@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# compiled output
+/dist
+/build
+
+# environment variables
+.env
+.env.*
+
+# TypeScript
+*.tsbuildinfo
